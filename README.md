@@ -1,2 +1,1 @@
-# Personlaized-Spoken-Keyword-Spotting-System
 This project implements a personalized spoken keyword spotting system using a Residual Network (ResNet) architecture. The model is designed to detect spoken keywords while simultaneously identifying the speaker. Trained on a custom dataset, it effectively learns distinctive speech patterns and speaker characteristics. The model was trained with custom dataset and tested. To do the custom testing, input the audio path to be tested and run to know the keyword and speaker classes. 
